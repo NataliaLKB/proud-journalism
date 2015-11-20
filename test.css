@@ -1,0 +1,28 @@
+@media (min-width: 30em) {
+	.element-rich-link--upgraded.test {
+	    width: 20.75rem;
+	}
+}
+
+@media (max-width: 29.99em) {
+	.element-rich-link--upgraded.test {
+	    width: 100%;
+	}
+}
+
+
+
+/*
+ * OPTION ONE
+ */
+
+
+
+/*
+ * OPTION TWO
+ */
+
+
+ /*
+ * OPTION THREE
+ */
