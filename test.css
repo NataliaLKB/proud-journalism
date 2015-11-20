@@ -17,6 +17,7 @@
 .element-rich-link--upgraded.test .rich-link__header {
     font-size: 1.275rem;
     padding: 10px 6px;
+    line-height: 1.5rem;
 }
 
 /*
